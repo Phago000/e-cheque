@@ -1,0 +1,6 @@
+PyMuPDF==1.25.2
+blingfire==0.1.8
+sentence-transformers==3.3.1
+qdrant-client==1.13.0
+packaging==23.2
+google-generativeai==0.8.4
